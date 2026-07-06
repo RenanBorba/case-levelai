@@ -233,4 +233,4 @@ Principais variáveis utilizadas:
 
 ---
 
-Este microserviço faz parte do projeto **Clinical Integration Platform – LevelAI Case**, disponível na raiz do repositório.
+Este microserviço faz parte do projeto **Clinical Integration Platform – Level AI Case**, disponível na raiz do repositório.
