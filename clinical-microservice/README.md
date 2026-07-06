@@ -199,7 +199,7 @@ Principais variáveis utilizadas:
 
 ---
 
-## Execução
+## Em execução
 
 <img width="1269" height="989" alt="Image" src="https://github.com/user-attachments/assets/bf2c8c97-0c93-410a-87af-610b5a6c26b8" />
 <img width="1920" height="685" alt="Image" src="https://github.com/user-attachments/assets/46646342-fd4c-4102-9e8b-aa5454d8fc5c" />
