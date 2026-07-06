@@ -1,4 +1,4 @@
-# Clinical Integration Platform – LevelAI Case
+# Clinical Integration Platform – Level AI Case
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.116-green)
