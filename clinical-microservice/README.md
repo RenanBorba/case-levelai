@@ -221,6 +221,7 @@ Principais variáveis utilizadas:
 <br><br>
 
 
+---
 ## Próximas Evoluções
 
 - Consumer RabbitMQ
