@@ -218,7 +218,8 @@ Principais variáveis utilizadas:
 <img width="1920" height="1039" alt="Image" src="https://github.com/user-attachments/assets/6a997fc7-7eb5-4994-bbee-b1877dc9b53c" />
 <img width="1920" height="1038" alt="Image" src="https://github.com/user-attachments/assets/4ef033f4-4789-4016-a1fa-69ee921768a5" />
 
-<br>
+<br><br>
+
 
 ## Próximas Evoluções
 
