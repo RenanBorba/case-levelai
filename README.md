@@ -15,6 +15,7 @@ O projeto foi inspirado em cenários de integração encontrados em soluções d
 ---
 
 ## Arquitetura
+```text
 Sistema Hospitalar
         │
         ▼
@@ -29,7 +30,7 @@ Clinical Integration API
         │
         ▼
      RabbitMQ
-
+```
 ---
 
 ## Estrutura do projeto
