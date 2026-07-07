@@ -133,7 +133,7 @@ Recebe um evento clínico e o publica na fila RabbitMQ.
 
 ---
 
-## Executando
+## Para Executar
 
 Na raiz do projeto:
 
