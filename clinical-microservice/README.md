@@ -2,7 +2,7 @@
 
 Microserviço responsável por receber eventos clínicos via API REST, validar os dados recebidos e publicá-los em uma fila RabbitMQ para processamento assíncrono.
 
-Este componente representa a camada de integração da plataforma, desacoplando o sistema de origem dos consumidores responsáveis pelo processamento dos eventos.
+Este componente representa a camada de integração da plataforma, desacoplando o sistema de origem dos responsáveis pelo processamento dos eventos.
 
 ---
 
